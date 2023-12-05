@@ -1228,7 +1228,7 @@ section {
   
 }
 
-.hero-2{
+.hero-2{ 
    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../images/cta-bg.jpg") center center;
    background-size: cover;
   padding: 18px 2px;
