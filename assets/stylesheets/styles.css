@@ -1221,9 +1221,10 @@ section {
 .hero {
   width: 100%;
   position: relative;
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/hero-bg.jpg) center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://www.ecovis.com/medizin/wp-content/uploads/2022/11/KarinUweAnnas-%E2%80%94-stock.adobe_.com_-scaled-e1668688504558.jpeg) center center;
   background-size: cover;
   padding: 60px 0 0 0;
+  
 }
 .hero .caption{
   height: 370px;
@@ -1247,7 +1248,7 @@ section {
 }
 
 .hero p {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgb(255, 255, 255);
   font-weight: 400;
   margin-bottom: 30px;
 }
