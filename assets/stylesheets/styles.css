@@ -777,7 +777,7 @@ section {
   width: 12px;
   height: 12px;
   background-color: #fff;
-  opacity: 1;
+  /*opacity: 1;*/
   background-color: #ddd;
 }
 
