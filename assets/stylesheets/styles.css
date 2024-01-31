@@ -608,6 +608,79 @@ section {
   font-family: var(--font-secondary);
 }
 
+.roww {
+  content: "";
+  clear: both;
+  display: table;
+  display: inline-block;
+ 
+  padding-left:10%;
+}
+
+.columnn h2{
+  text-align: center;
+  font-weight: 700;
+  padding-bottom: 10px;
+}
+.columnn{
+  float: left;
+  width: 30%;
+  /*padding: 10px;*/
+  padding-right:30px;
+  
+}
+.rowwo {
+  content: "";
+  clear: both;
+  display: table;
+  display: inline-block;
+  padding-right:10%;
+  padding-left:10%;
+}
+.columnno{
+  float: left;
+  width: 100%;
+  padding: 10px;
+}
+
+.columnni {
+  text-align: center;
+  padding-top: 150px;
+  padding-left: 60px;
+  float: left;
+  width: 30%;
+  /*padding: 10px;*/
+  padding-right:30px;
+  
+}
+
+.columnni h3{
+  font-weight: 700;
+  padding-bottom: 10px;
+
+}
+.columnni .cta-btno {
+    font-family: var(--font-primary);
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 12px 48px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin: 10px;
+    background-color: #f85a40;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+  }
+  
+  .columnni .cta-btno:hover {
+    background: white;
+    color: #000;
+    border: 2px solid var(--color-primary);
+  }
+
+
 .about .call-us {
   left: 10%;
   right: 10%;
