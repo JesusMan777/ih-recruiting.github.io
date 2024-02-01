@@ -61,6 +61,27 @@
     padding-bottom: 60px;
   }
   
+.containerow{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.section-headero{
+    float: left;
+    width: 33.33%;
+    padding: 30px;
+    text-align: center;
+}
+.section-headero h3{
+text-align: center;
+}
+
+@media screen and (max-width: 500px) {
+    .section-headero {
+      width: 100%;
+    }
+}
   .section-header h2 {
     
     /*font-size: 32px;
