@@ -607,15 +607,11 @@ section {
   margin-bottom: 20px;
   font-family: var(--font-secondary);
 }
-
-.roww {
-  content: "";
-  clear: both;
-  display: table;
-  display: inline-block;
- 
-  padding-left:10%;
+.about{
+  text-align: center;
 }
+
+/*
 
 .columnn h2{
   text-align: center;
@@ -625,7 +621,7 @@ section {
 .columnn{
   float: left;
   width: 30%;
-  /*padding: 10px;*/
+  padding: 10px;
   padding-right:30px;
   
 }
@@ -634,22 +630,20 @@ section {
   clear: both;
   display: table;
   display: inline-block;
-  padding-right:10%;
-  padding-left:10%;
+ 
 }
 .columnno{
   float: left;
-  width: 100%;
+  width: 30%;
   padding: 10px;
 }
 
 .columnni {
   text-align: center;
-  padding-top: 150px;
-  padding-left: 60px;
+
   float: left;
   width: 30%;
-  /*padding: 10px;*/
+  padding: 10px;
   padding-right:30px;
   
 }
@@ -680,7 +674,7 @@ section {
     border: 2px solid var(--color-primary);
   }
 
-
+*/
 .about .call-us {
   left: 10%;
   right: 10%;
